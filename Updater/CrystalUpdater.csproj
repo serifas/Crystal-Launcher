@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Data\UpdateFileInfo.cs" />
     <Compile Include="Data\UpdateSaveFile.cs" />
+    <Compile Include="Data\Utils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>

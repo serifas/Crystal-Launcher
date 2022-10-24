@@ -44,7 +44,7 @@ namespace CrystalUpdater.UI
                     Directory.CreateDirectory(@"." + fileInfo.Path);
                 }
                 string FilePath = @"." + fileInfo.Path + fileInfo.Name;
-                ListViewItem lvItem = new ListViewItem(new String[] { fileInfo.Name, "Waiting...", fileInfo.Path, fileInfo.Description });
+                ListViewItem lvItem = new ListViewItem(new String[] { fileInfo.Name, "Waiting...", fileInfo.Path, Utils.FileSizeFormatter.FormatSize(long.Parse(fileInfo.Description)) });
                 lvItems.Items.Add(lvItem);
 
                 if (File.Exists(FilePath))
