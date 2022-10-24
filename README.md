@@ -38,13 +38,20 @@ Your structure should look something like this.
 *Place your current version number of the assembly in the Version field.*
 **NOTE: All updates that you publish, you will need to include a new version of the launcher with a version (In the compiled Launcher's Assembly Version) that matches the the version number generated in the UpdateInfo.dat**
 **Just make sure your launcher assembly version matches the update. you can do that by opening the Launcher project properties**
+
+
 ![Update Maker Generation2](https://i.imgur.com/s3oHXFP.png)
 
 *Hit generate and you will receive an UpdateInfo.dat file*
 *You guessed it. This goes in the same url as the line you edited in step 1*
 
 *Now just upload all your files without any folders on your server in the same directory as your UpdateInfo.dat*
+
+
+
 *Like this*
+
+
 ![Online File Structure](https://i.imgur.com/s3oHXFP.png)
 https://i.imgur.com/CMZIWoW.png
 
