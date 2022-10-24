@@ -24,3 +24,12 @@ C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.cspro
 C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.dll
 C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.pdb
 C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.csproj.AssemblyReference.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\obj\Release\CrystalUpdater.csproj.AssemblyReference.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\obj\Release\CrystalUpdater.Properties.Resources.resources
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\obj\Release\CrystalUpdater.UI.frmUpdater.resources
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\obj\Release\CrystalUpdater.csproj.GenerateResource.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\obj\Release\CrystalUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\obj\Release\CrystalUpdater.dll
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Updater\obj\Release\CrystalUpdater.pdb

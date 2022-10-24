@@ -56,7 +56,8 @@
             // 
             // updater1
             // 
-            this.updater1.UpdateUrl = "http://thecrystalrefuge.com/Updates/UpdateInfo.dat";
+            //SET TO THE UPDATEINFO.DAT FILE ON YOUR SERVER HOST
+            this.updater1.UpdateUrl = "http://website.com/Updates/UpdateInfo.dat";
             // 
             // button2
             // 

@@ -34,3 +34,17 @@ C:\Users\Preac\Desktop\Crystal Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.
 C:\Users\Preac\Desktop\Crystal Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.pdb
 C:\Users\Preac\Desktop\Crystal Launcher\UpdateMaker\bin\Release\Crystal Refuge.exe
 C:\Users\Preac\Desktop\Crystal Launcher\UpdateMaker\bin\Release\Crystal Refuge.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\bin\Release\UpdateMaker.exe
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\bin\Release\UpdateMaker.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\bin\Release\Crystal Refuge.exe
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\bin\Release\Crystal Refuge.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.csproj.AssemblyReference.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.Form1.resources
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.Properties.Resources.resources
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.csproj.GenerateResource.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.csproj.CopyComplete
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.exe
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\UpdateMaker\obj\x86\Release\UpdateMaker.pdb

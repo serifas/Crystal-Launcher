@@ -50,17 +50,7 @@ namespace UpdateMaker
 
         private void btnAdd_Click(object sender, EventArgs e)
         { 
-            string[] files = Directory.GetFiles(@"./Files/", "*", SearchOption.AllDirectories);
-           
-            foreach (var file in files)
-            {
-                FileInfo fi = new FileInfo(file);
-                var size = fi.Length;
-                string fullPath = fi.FullName.Split(new string[] { "Files" }, StringSplitOptions.None)[1];
-                string finalPath = fullPath.Split(new string[] { fi.Name }, StringSplitOptions.None)[0];
-                ListViewItem lvItem = new ListViewItem(new String[] { fi.Name, size.ToString(), finalPath });
-                listView1.Items.Add(lvItem);
-            }
+            
            
         }
 
@@ -79,7 +69,17 @@ namespace UpdateMaker
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            string[] files = Directory.GetFiles(@"./Files/", "*", SearchOption.AllDirectories);
 
+            foreach (var file in files)
+            {
+                FileInfo fi = new FileInfo(file);
+                var size = fi.Length;
+                string fullPath = fi.FullName.Split(new string[] { "Files" }, StringSplitOptions.None)[1];
+                string finalPath = fullPath.Split(new string[] { fi.Name }, StringSplitOptions.None)[0];
+                ListViewItem lvItem = new ListViewItem(new String[] { fi.Name, size.ToString(), finalPath });
+                listView1.Items.Add(lvItem);
+            }
         }
     }
 }

@@ -22,3 +22,15 @@ C:\Users\Preac\Desktop\Crystal Launcher\Launcher\obj\x86\Release\Launcher.csproj
 C:\Users\Preac\Desktop\Crystal Launcher\Launcher\obj\x86\Release\Launcher.csproj.CopyComplete
 C:\Users\Preac\Desktop\Crystal Launcher\Launcher\obj\x86\Release\Crystal Refuge.exe
 C:\Users\Preac\Desktop\Crystal Launcher\Launcher\obj\x86\Release\Crystal Refuge.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\bin\Release\Crystal Refuge.exe
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\bin\Release\Crystal Refuge.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\Launcher.csproj.AssemblyReference.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\UpdateTest.Form1.resources
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\UpdateTest.Properties.Resources.resources
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\Launcher.csproj.GenerateResource.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\Launcher.csproj.CopyComplete
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\Crystal Refuge.exe
+C:\Users\Preac\Documents\GitHub\Crystal-Launcher\Launcher\obj\x86\Release\Crystal Refuge.pdb
