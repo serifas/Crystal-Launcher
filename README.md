@@ -52,8 +52,8 @@ Your structure should look something like this.
 *Like this*
 
 
-![Online File Structure](https://i.imgur.com/s3oHXFP.png)
-https://i.imgur.com/CMZIWoW.png
+![Online File Structure](https://i.imgur.com/CMZIWoW.png)
+
 
 
 *Revert the local Launchers Assembly version to a lower version number and compile*
