@@ -16,9 +16,9 @@ An auto updater and launcher for game clients.
 
 ![Edit](https://i.imgur.com/cWsO5AL.png)
 
-**Step #2:** *Build the Project*
 
-**Step #3:** *Put all files including directories in a folder called Files in the same folder with the update maker, and turn on the update maker*
+
+**Step #2:** *Put all files including directories in a folder called Files in the same folder with the update maker, and turn on the update maker*
 
 Your structure should look something like this.
 
@@ -26,7 +26,7 @@ Your structure should look something like this.
 
 ![Folder Structure](https://i.imgur.com/fwIyYk9.png)
 
-**Step #4:**
+**Step #3:**
 *Open the Update Maker and it should auto populate with the files in your Files directory like below*
 
 
@@ -34,7 +34,7 @@ Your structure should look something like this.
 ![Update Maker Generation1](https://i.imgur.com/gw1dtvJ.png)
 
 
-
+**Step #4:**
 *Place your current version number of the assembly in the Version field.*
 **NOTE: All updates that you publish, you will need to include a new version of the launcher with a version (In the compiled Launcher's Assembly Version) that matches the the version number generated in the UpdateInfo.dat**
 **Just make sure your launcher assembly version matches the update. you can do that by opening the Launcher project properties**
