@@ -1,0 +1,10 @@
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Debug\UpdateTest.exe
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Debug\UpdateTest.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Debug\TutUpdater.dll
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Debug\TutUpdater.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Debug\UpdateTest.csprojResolveAssemblyReference.cache
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Debug\UpdateTest.Form1.resources
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Debug\UpdateTest.Properties.Resources.resources
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Debug\UpdateTest.csproj.GenerateResource.Cache
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Debug\UpdateTest.exe
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Debug\UpdateTest.pdb

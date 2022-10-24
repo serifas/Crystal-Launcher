@@ -1,0 +1,33 @@
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Release\UpdateTest.exe
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Release\UpdateTest.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Release\TutUpdater.dll
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\bin\Release\TutUpdater.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.Form1.resources
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.Properties.Resources.resources
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.csproj.GenerateResource.Cache
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.exe
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.pdb
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.csproj.AssemblyReference.cache
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.Form1.resources
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.Properties.Resources.resources
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.csproj.GenerateResource.cache
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\UpdateTest.csproj.CopyComplete
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\bin\Release\Crystal Refuge.exe
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\bin\Release\Crystal Refuge.pdb
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\Crystal Refuge.exe
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\obj\x86\Release\Crystal Refuge.pdb
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\TutUpdater\UpdateTest\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\bin\Release\Crystal Refuge.exe
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\bin\Release\Crystal Refuge.pdb
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\UpdateTest.csproj.AssemblyReference.cache
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\UpdateTest.Form1.resources
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\UpdateTest.Properties.Resources.resources
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\UpdateTest.csproj.GenerateResource.cache
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\UpdateTest.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\UpdateTest.csproj.CopyComplete
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\Crystal Refuge.exe
+C:\Users\Preac\Desktop\Crystal Launcher\UpdateTest\obj\x86\Release\Crystal Refuge.pdb

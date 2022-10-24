@@ -1,0 +1,9 @@
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\bin\Debug\UpdateMaker.exe
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\bin\Debug\UpdateMaker.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\bin\Debug\TutUpdater.dll
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\bin\Debug\TutUpdater.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\obj\x86\Debug\UpdateMaker.Form1.resources
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\obj\x86\Debug\UpdateMaker.Properties.Resources.resources
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\obj\x86\Debug\UpdateMaker.csproj.GenerateResource.Cache
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\obj\x86\Debug\UpdateMaker.exe
+C:\Users\Matthiee\Desktop\TutUpdater\UpdateMaker\obj\x86\Debug\UpdateMaker.pdb

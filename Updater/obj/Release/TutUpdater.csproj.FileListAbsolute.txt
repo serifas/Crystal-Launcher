@@ -1,0 +1,14 @@
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\bin\Release\TutUpdater.dll
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\bin\Release\TutUpdater.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.UI.frmUpdater.resources
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.csproj.GenerateResource.Cache
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.dll
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.pdb
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.csproj.AssemblyReference.cache
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.UI.frmUpdater.resources
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.csproj.GenerateResource.cache
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\TutUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.pdb

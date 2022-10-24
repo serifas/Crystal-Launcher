@@ -1,0 +1,6 @@
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\bin\Debug\TutUpdater.dll
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\bin\Debug\TutUpdater.pdb
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Debug\TutUpdater.UI.frmUpdater.resources
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Debug\TutUpdater.csproj.GenerateResource.Cache
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Debug\TutUpdater.dll
+C:\Users\Matthiee\Desktop\TutUpdater\TutUpdater\obj\Debug\TutUpdater.pdb

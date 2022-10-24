@@ -1,0 +1,26 @@
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.csproj.GenerateResource.cache
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.UI.frmUpdater.resources
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.csproj.AssemblyReference.cache
+C:\Users\Preac\Desktop\TutUpdater\TutUpdater\obj\Release\CrystalUpdater.Properties.Resources.resources
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\obj\Release\CrystalUpdater.Properties.Resources.resources
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\obj\Release\CrystalUpdater.UI.frmUpdater.resources
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\obj\Release\CrystalUpdater.csproj.GenerateResource.cache
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\obj\Release\CrystalUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\obj\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\Crystal Launcher\TutUpdater\obj\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\bin\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\bin\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.Properties.Resources.resources
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.UI.frmUpdater.resources
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.csproj.GenerateResource.cache
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.dll
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.pdb
+C:\Users\Preac\Desktop\Crystal Launcher\Updater\obj\Release\CrystalUpdater.csproj.AssemblyReference.cache
