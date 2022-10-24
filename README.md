@@ -40,7 +40,7 @@ Your structure should look something like this.
 **Just make sure your launcher assembly version matches the update. you can do that by opening the Launcher project properties**
 
 
-![Update Maker Generation2](https://i.imgur.com/s3oHXFP.png)
+![Update Maker Generation2](https://i.imgur.com/XQVbT0Z.png)
 
 *Hit generate and you will receive an UpdateInfo.dat file*
 *You guessed it. This goes in the same url as the line you edited in step 1*
